@@ -1,4 +1,5 @@
 import { isEven } from '../solutions/recursion-solution.js';
+import { expect } from 'chai';
 
 describe('Solution testing for exercise "Recursion" from Chapter 2', () => {
     describe('Testing recursive function isEven()', () => {
@@ -12,9 +13,9 @@ describe('Solution testing for exercise "Recursion" from Chapter 2', () => {
         expect(result).to.equal(false);
       });
 
-      it('Should return ?? or undefined when a non-positive value is provided.', () => {
+      it('Should return false when a non-positive value is provided.', () => {
         const result = isEven(-1);
-        expect(result).to.be.oneOf(['??', undefined]);
+        expect(result).to.equal(false);
       })
     })
 });

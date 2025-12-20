@@ -1,4 +1,5 @@
 import { min } from '../solutions/minimum-solution.js';
+import { expect } from 'chai';
 
 describe('Solution testing for exercise "Minimum" from Chapter 2', () => {
 
