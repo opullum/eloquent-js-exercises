@@ -4,27 +4,37 @@
 Repository to hold the exercises for *Eloquent JavaScript (4th ed.)* by Marjin Haverbeke. Includes problem details and solution testing via. Mocha. Created to conveniently complete problems and test solutions in IDEs.
 
 🔗 [Eloquent JavaScript (4th. Edition) by Marjin Haverbeke](https://eloquentjavascript.net/index.html)<br>
-🔗 [Eloquent JavaScript Code Sandbox](https://eloquentjavascript.net/code/)
+🔗 [Eloquent JavaScript Code Sandbox + Solutions](https://eloquentjavascript.net/code/)
 
 
 ## Usage
 ```
-├───base
-│       chessboard-base.js
-│       fizzbuzz-base.js
-│       triangle-base.js
-│
-├───details
-│       chessboard.md
-│       fizzbuzz.md
-│       triangle.md
-│
-└───solutions
-        chessboard-solution.js
-        fizzbuzz-solution.js
-        triangle-solution.js
+[Exercise File Structure]
+
+├───exercises
+│   ├───ch2-exercises
+│   │   ├───base
+│   │   ├───details
+│   │   ├───solutions
+│   │   └───test
+│   └───ch3-exercises
+│       ├───base
+│       ├───details
+│       ├───solutions
+│       └───test
+├──────Rest of exercises...
 ```
 
 Directory [exercises](./exercises/) contains the exercises for each chapter from the text. Separate directories are included for the base problem, problem details, and the solution file where the exercise should be solved.
 
+After creating a solution for the given exercise, run the corresponding test in the tests/ directory for the chapter. This can be done using `npx mocha [test_file]` (example: `npx mocha beancounting.test.js`). Verify if all tests pass. If not, retry the problem and/or refer to the hints or online solution for further details.
+
+
 ## Requirements
+This project depends on **Mocha** for testing and **Sinon** for console stubbing. Both can be installed via. `npm`.
+
+From the project root:
+```
+npm install
+```
+Alternatively, you may run `npm ci` if you would like to utilize package-lock.json instead. Both methods will work.
