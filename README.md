@@ -3,8 +3,8 @@
 
 Repository to hold the exercises for *Eloquent JavaScript (4th ed.)* by Marjin Haverbeke. Includes problem details and solution testing via. Mocha. Created to conveniently complete problems and test solutions in IDEs.
 
-🔗 [Eloquent JavaScript (4th. Edition) by Marjin Haverbeke](https://eloquentjavascript.net/index.html)
-🔗[Eloquent JavaScript Code Sandbox](https://eloquentjavascript.net/code/)
+🔗 [Eloquent JavaScript (4th. Edition) by Marjin Haverbeke](https://eloquentjavascript.net/index.html)<br>
+🔗 [Eloquent JavaScript Code Sandbox](https://eloquentjavascript.net/code/)
 
 
 ## Usage
