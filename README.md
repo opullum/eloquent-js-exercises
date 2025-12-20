@@ -6,6 +6,16 @@ Repository to hold the exercises for *Eloquent JavaScript (4th ed.)* by Marjin H
 🔗 [Eloquent JavaScript (4th. Edition) by Marjin Haverbeke](https://eloquentjavascript.net/index.html)<br>
 🔗 [Eloquent JavaScript Code Sandbox + Solutions](https://eloquentjavascript.net/code/)
 
+## Progress Checklist
+Below are the current tasks left to complete in this repository. This checklist will be removed once all the chapters, details, exercises, and tests are added. Contributions are welcome!
+
+**Key**: ✅ (Completed), 🚧 (In Progress), ❌ (Not Started)
+
+- [🚧] Add exercise details from all chapters 
+  - Update exercise details to include a link to the sandbox solution
+- [🚧] Complete unit tests for all exercises 
+- [❌] Add comments to all base solution files to describe the requirements 
+
 
 ## Usage
 ```
