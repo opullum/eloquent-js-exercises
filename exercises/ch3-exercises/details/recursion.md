@@ -2,6 +2,7 @@
 🔗 [Link to Chapter](https://eloquentjavascript.net/03_functions.html)
 📂 [Starter File](../base/recursion-base.js)
 🛠️ [Solution File](../solutions/recursion-solution.js)
+🧪 [Open in Sandbox](https://eloquentjavascript.net/code/#3.2)
 
 ## Exercise 3: Recursion
 We’ve seen that we can use % (the remainder operator) to test whether a number is even or odd by using % 2 to see whether it’s divisible by two. Here’s another way to define whether a positive whole number is even or odd:

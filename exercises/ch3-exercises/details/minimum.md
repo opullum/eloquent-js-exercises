@@ -2,6 +2,7 @@
 🔗 [Link to Chapter](https://eloquentjavascript.net/03_functions.html)
 📂 [Starter file](../base/minimum-base.js)
 🛠️ [Solution File](../solutions/minimum-solution.js)
+🧪 [Open in Sandbox](https://eloquentjavascript.net/code/#3.1)
 
 ## Exercise 1: Minimum
 The [previous chapter](https://eloquentjavascript.net/02_program_structure.html#return_values) introduced the standard function `Math.min` that returns its smallest argument. We can write a function like that ourselves now. Define the function `min` that takes two arguments and returns their minimum.
