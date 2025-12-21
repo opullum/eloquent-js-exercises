@@ -5,3 +5,11 @@ export function arrayToList() {
 export function listToArray() {
     // Your code here.
 }
+
+export function prepend() {
+    // Your code here.
+}
+
+export function nth() {
+    // Your code here.
+}
