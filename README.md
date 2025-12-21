@@ -12,7 +12,8 @@ Below are the current tasks left to complete in this repository. This checklist 
 **Key**: ✅ (Completed), 🚧 (In Progress), ❌ (Not Started)
 
 - [🚧] Add exercise details from all chapters 
-  - Update exercise details to include a link to the sandbox solution
+  - [✅] Chapters 2–4 include sandbox links in every exercise detail page
+  - [❌] Chapters 5+ still need detailed write-ups
 - [🚧] Complete unit tests for all exercises 
 - [❌] Add comments to all base solution files to describe the requirements 
 

@@ -1,7 +1,7 @@
-export function reverseArray() {
-    // Your code here.
+export function reverseArray(array) {
+  // Your code here.
 }
 
-export function reverseArrayInPlace() {
-    // Your code here.
+export function reverseArrayInPlace(array) {
+  // Your code here.
 }

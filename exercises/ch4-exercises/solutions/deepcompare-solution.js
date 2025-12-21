@@ -1,3 +1,3 @@
-export function deepEqual() {
-    // Your code here.
+export function deepEqual(a, b) {
+  // Your code here.
 }
