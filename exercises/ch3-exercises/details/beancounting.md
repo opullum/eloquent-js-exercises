@@ -2,6 +2,7 @@
 🔗 [Link to Chapter](https://eloquentjavascript.net/03_functions.html)
 📂 [Starter file](../base/beancounting-base.js)
 🛠️ [Solution File](../solutions/beancounting-solution.js)
+🧪 [Open in Sandbox](https://eloquentjavascript.net/code/#3.3)
 
 ## Exercise 3: Bean Counting
 You can get the Nth character, or letter, from a string by writing [N] after the string (for example, string[2]). The resulting value will be a string containing only one character (for example, "b"). The first character has position 0, which causes the last one to be found at position string.length - 1. In other words, a two-character string has length 2, and its characters have positions 0 and 1.
