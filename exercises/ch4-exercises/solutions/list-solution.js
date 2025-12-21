@@ -10,6 +10,6 @@ export function prepend(value, list) {
   // Your code here.
 }
 
-export function nth(list, index) {
+export function nth(list, n) {
   // Your code here.
 }
