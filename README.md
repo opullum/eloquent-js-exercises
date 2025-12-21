@@ -7,7 +7,7 @@ Repository to hold the exercises for *Eloquent JavaScript (4th ed.)* by Marjin H
 🔗 [Eloquent JavaScript Code Sandbox + Solutions](https://eloquentjavascript.net/code/)
 
 ## Progress Checklist
-Below are the current tasks left to complete in this repository. This checklist will be removed once all the chapters, details, exercises, and tests are added. Contributions are welcome!
+Below are the current tasks left to complete in this repository. This checklist will be removed once all the chapters, details, exercises, and tests are added. **Contributions are welcome!** When choosing to contribute to the project, please read [CONTRIBUTORS.md](./CONTRIBUTORS.md) before doing so.
 
 **Key**: ✅ (Completed), 🚧 (In Progress), ❌ (Not Started)
 
