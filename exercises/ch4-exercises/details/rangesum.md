@@ -1,7 +1,7 @@
 # Chapter 4: Data Structures: Objects and Arrays
 🔗 [Link to Chapter](https://eloquentjavascript.net/04_data.html)
-📂 [Starter File](../base/sum-of-a-range-base.js)
-🛠️ [Solution File](../solutions/sum-of-a-range-solution.js)
+📂 [Starter File](../base/rangesum-base.js)
+🛠️ [Solution File](../solutions/rangesum-solution.js)
 🧪 [Open in Sandbox](https://eloquentjavascript.net/code/#4.1)
 
 ## Exercise 1: The Sum of a Range
