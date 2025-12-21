@@ -1,5 +1,5 @@
 # Chapter 4: Objects and Arrays
-🔗 [Link to Chapter](https://eloquentjavascript.net/03_functions.html)
+🔗 [Link to Chapter](https://eloquentjavascript.net/04_data.html)
 📂 [Starter File](../base/sum-base.js)
 🛠️ [Solution File](../solutions/sum-solution.js)
 

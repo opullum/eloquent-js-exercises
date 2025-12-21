@@ -1,7 +1,7 @@
 # Chapter 4: Objects and Arrays
-🔗 [Link to Chapter](https://eloquentjavascript.net/03_functions.html)
-📂 [Starter File](../base/sum-base.js)
-🛠️ [Solution File](../solutions/sum-solution.js)
+🔗 [Link to Chapter](https://eloquentjavascript.net/04_data.html)
+📂 [Starter File](../base/reversal-base.js)
+🛠️ [Solution File](../solutions/reversal-solution.js)
 
 ## Exercise 2: Reversing an Array
 Arrays have a reverse method that changes the array by inverting the order in which its elements appear. For this exercise, write two functions, `reverseArray` and `reverseArrayInPlace`. The first, `reverseArray`, should **take an array as its argument and produce a new array that has the same elements in the inverse order.** The second, `reverseArrayInPlace`, should do what the reverse method does: **modify the array given as its argument by reversing its elements.** Neither may use the standard reverse method.
@@ -10,7 +10,7 @@ Thinking back to the notes about side effects and pure functions in the previous
 
 <details>
     <summary><b>Exercise Hints</b></summary>
-    
+
     There are two obvious ways to implement reverseArray. The first is to simply go over the input array from front to back and use the unshift method on the new array to insert each element at its start. The second is to loop over the input array backward and use the push method. Iterating over an array backward requires a (somewhat awkward) for specification, like (let i = array.length - 1; i >= 0; i--).
 
     Reversing the array in place is harder. You have to be careful not to overwrite elements that you will later need. Using reverseArray or otherwise copying the whole array (array.slice() is a good way to copy an array) works but is cheating.

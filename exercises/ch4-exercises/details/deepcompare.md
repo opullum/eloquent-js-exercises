@@ -1,7 +1,7 @@
 # Chapter 4: Objects and Arrays
-🔗 [Link to Chapter](https://eloquentjavascript.net/03_functions.html)
-📂 [Starter File](../base/sum-base.js)
-🛠️ [Solution File](../solutions/sum-solution.js)
+🔗 [Link to Chapter](https://eloquentjavascript.net/04_data.html)
+📂 [Starter File](../base/deepcompare-base.js)
+🛠️ [Solution File](../solutions/deepcompare-solution.js)
 
 ## Exercise 4: Deep Comparison
 The `==` operator compares objects by identity, but sometimes you’d prefer to compare the values of their actual properties.
