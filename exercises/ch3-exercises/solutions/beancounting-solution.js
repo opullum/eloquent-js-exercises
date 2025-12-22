@@ -8,7 +8,6 @@
  * Then rewrite countBs to use countChar internally.
  * 
  * REQUIREMENTS:
- * 
  * countBs(string):
  * - Parameters: a string
  * - Return: the number of uppercase 'B' characters in the string
@@ -27,7 +26,10 @@
  * - Using .length property to determine string bounds
  * - Conditional statements within loops
  * - Function parameters and return values
- * - Code reusability (using countChar in countBs)\n */\n\nexport function countBs(str) {
+ * - Code reusability (using countChar in countBs)
+*/ 
+
+export function countBs(str) {
   // Your code here.
 }
 

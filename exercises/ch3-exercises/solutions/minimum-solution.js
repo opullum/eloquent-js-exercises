@@ -6,18 +6,15 @@
  * The function should accept two arguments and return the smaller of the two values.
  * 
  * REQUIREMENTS:
- * - Function name: min
- * - Parameters: two arguments (can be any values that are comparable)
+ * min(a, b):
+ * - Returns the smaller value between a and b
+ * - Parameters: two arguments (any values) to be compared
  * - Return: the minimum of the two arguments
- * - Must return the same result as the ternary or if/else comparison
- * 
- * FUNCTION SIGNATURE:
- * min(a, b) -> returns the smaller value between a and b
- * 
- * EXAMPLES:
- * - min(5, 3) returns 3
- * - min(-2, -5) returns -5
- * - min(10, 10) returns 10
+ * - Must return the same result as the ternary if/else comparison
+ * - Example:
+ *   - min(5, 3) returns 3
+ *   - min(-2, -5) returns -5
+ *   - min(10, 10) returns 10
  * 
  * LEARNING GOALS:
  * - Understanding function definition and parameters

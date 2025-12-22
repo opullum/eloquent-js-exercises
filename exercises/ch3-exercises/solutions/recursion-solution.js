@@ -11,13 +11,12 @@
  * This demonstrates recursion as an alternative to the modulo operator (%)
  * for determining number evenness.
  * 
- * REQUIREMENTS:
- * - Function name: isEven
- * - Parameter: a single positive whole number
- * - Return: true if the number is even, false if it's odd
- * - Must use recursion (function calls itself)
- * - Base cases: handle 0 (even) and 1 (odd)
- * - Recursive case: subtract 2 and recursively check
+ * REQUIREMENTS: 
+ * isEven(n):
+ * - Uses recursion to verify if a positive whole number is even
+ * - Parameters: a single positive whole number (n)
+ * - Return: true if the number is even, false if it's odd or invalid
+ * - The function must use recursion to call itself for this exercise
  * 
  * TEST CASES:
  * - isEven(0) returns true
@@ -31,6 +30,8 @@
  * - Recursive thinking and breaking problems into smaller instances
  * - Function parameters and return values
  * - Recognizing stack overflow problems with negative inputs
- * - Understanding the limits of recursive solutions\n */\n\nexport function isEven(n) {
+ * - Understanding the limits of recursive solutions\n */
+
+export function isEven(n) {
   // Your code here.
 }
