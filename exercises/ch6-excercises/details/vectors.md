@@ -1,7 +1,7 @@
 # Chapter 6: The Secret Life of Objects
 🔗 [Link to Chapter](https://eloquentjavascript.net/06_object.html)
-📂 [Starter File](../base/vector-type-base.js)
-🛠️ [Solution File](../solutions/vector-type-solution.js)
+📂 [Starter File](../base/vectors-base.js)
+🛠️ [Solution File](../solutions/vectors-solution.js)
 🧪 [Open in Sandbox](https://eloquentjavascript.net/code/#6.1)
 
 ## Exercise 1: A Vector Type
