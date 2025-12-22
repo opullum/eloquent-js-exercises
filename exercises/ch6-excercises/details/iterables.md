@@ -1,7 +1,7 @@
 # Chapter 6: The Secret Life of Objects
 🔗 [Link to Chapter](https://eloquentjavascript.net/06_object.html)
-📂 [Starter File](../base/iterable-groups-base.js)
-🛠️ [Solution File](../solutions/iterable-groups-solution.js)
+📂 [Starter File](../base/iterables-base.js)
+🛠️ [Solution File](../solutions/iterables-solution.js)
 🧪 [Open in Sandbox](https://eloquentjavascript.net/code/#6.3)
 
 ## Exercise 3: Iterable Groups
