@@ -7,7 +7,6 @@
  * deepEqual checks if two values have the same structure and values recursively.
  * 
  * REQUIREMENTS:
- * 
  * deepEqual(a, b):
  * - Parameters: any two values to compare
  * - Return: true if values are deeply equal, false otherwise
