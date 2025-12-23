@@ -4,7 +4,7 @@
 🛠️ [Solution File](../solutions/writing-solution.js)
 🧪 [Open in Sandbox](https://eloquentjavascript.net/code/#5.4)
 
-## Exercise 3: Everything
+## Exercise 3: Dominant Writing Direction
 
 Write a function that computes the dominant writing direction in a string of text. Remember that each script object has a direction property that can be "ltr" (left to right), "rtl" (right to left), or "ttb" (top to bottom).
 
