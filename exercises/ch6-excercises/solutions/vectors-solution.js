@@ -1,11 +1,16 @@
 export class Vector {
     constructor(x, y) {
-
+        // Your code here.
     }
-    plus(other) {}
+    plus(other) {
+        // Your code here.
+    }
 
-    minus(other) {}
+    minus(other) {
+        // Your code here.
+    }
 
-    get length() {}
-
+    get length() {
+        // Your code here.
+    }
 }
