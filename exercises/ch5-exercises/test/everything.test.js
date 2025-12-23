@@ -4,12 +4,12 @@ import { expect } from 'chai';
 describe('Solution testing for exercise "Everything" from Chapter 5', () => {
 
   describe('Verifying functionality for every()', () => {
-    it('Returns true when all elements pass given test', () => {
+    it('Returns true when provided array [1, 3, 5] and test (n < 10)', () => {
       const result = every([1, 3, 5], n => n < 10);
       expect(result).to.be.true;
     });
 
-    it('Returns false when any element fails given test', () => {
+    it('Returns false when provided array [2, 4, 6] and test (n < 10)', () => {
       const result = every([2, 4, 16], n => n < 10);
       expect(result).to.be.false;
     });
