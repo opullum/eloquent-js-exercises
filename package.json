@@ -28,12 +28,5 @@
     "prettier": "^3.7.4",
     "sinon": "^21.0.1",
     "sinon-chai": "^4.0.1"
-  },
-  "prettier": {
-    "trailingComma": "es5",
-    "useTabs": true,
-    "tabWidth": 4,
-    "semi": true,
-    "singleQuote": true
   }
 }
