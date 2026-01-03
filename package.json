@@ -1,32 +1,32 @@
 {
-  "name": "eloquent-javascript-exercises",
-  "version": "1.0.0",
-  "description": "Repository to hold the exercises for Eloquent JavaScript (4th ed.) by Marjin Haverbeke. Includes problem details and solution testing.",
-  "keywords": [
-    "eloquent-js",
-    "js",
-    "mocha"
-  ],
-  "homepage": "https://github.com/opullum/eloquent-js-solutions#readme",
-  "bugs": {
-    "url": "https://github.com/opullum/eloquent-js-solutions/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/opullum/eloquent-js-solutions.git"
-  },
-  "license": "ISC",
-  "author": "opullum",
-  "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha"
-  },
-  "devDependencies": {
-    "chai": "^6.2.1",
-    "mocha": "^11.7.5",
-    "prettier": "^3.7.4",
-    "sinon": "^21.0.1",
-    "sinon-chai": "^4.0.1"
-  }
+	"name": "eloquent-javascript-exercises",
+	"version": "1.0.0",
+	"description": "Repository to hold the exercises for Eloquent JavaScript (4th ed.) by Marjin Haverbeke. Includes problem details and solution testing.",
+	"keywords": [
+		"eloquent-js",
+		"js",
+		"mocha"
+	],
+	"homepage": "https://github.com/opullum/eloquent-js-solutions#readme",
+	"bugs": {
+		"url": "https://github.com/opullum/eloquent-js-solutions/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/opullum/eloquent-js-solutions.git"
+	},
+	"license": "ISC",
+	"author": "opullum",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"devDependencies": {
+		"chai": "^6.2.1",
+		"mocha": "^11.7.5",
+		"prettier": "^3.7.4",
+		"sinon": "^21.0.1",
+		"sinon-chai": "^4.0.1"
+	}
 }

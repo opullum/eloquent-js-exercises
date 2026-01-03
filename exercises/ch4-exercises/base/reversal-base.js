@@ -1,6 +1,6 @@
 // Your code here.
 
-let myArray = ["A", "B", "C"];
+let myArray = ['A', 'B', 'C'];
 console.log(reverseArray(myArray));
 // → ["C", "B", "A"];
 console.log(myArray);

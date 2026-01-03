@@ -1,3 +1,3 @@
 export function every(array, test) {
-    // Your code here.
+	// Your code here.
 }

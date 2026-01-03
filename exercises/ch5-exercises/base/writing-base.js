@@ -1,8 +1,8 @@
 function dominantDirection(text) {
-  // Your code here.
+	// Your code here.
 }
 
-console.log(dominantDirection("Hello!"));
+console.log(dominantDirection('Hello!'));
 // → ltr
-console.log(dominantDirection("Hey, مساء الخير"));
+console.log(dominantDirection('Hey, مساء الخير'));
 // → rtl

@@ -1,3 +1,3 @@
 export function dominantDirection(text) {
-    // Your code here.
+	// Your code here.
 }
