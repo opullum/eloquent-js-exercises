@@ -1,5 +1,5 @@
 class Group {
-  // Your code here.
+	// Your code here.
 }
 
 let group = Group.from([10, 20]);
